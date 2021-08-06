@@ -1,0 +1,28 @@
+.mexe {
+    cursor: pointer;
+    font-size: 50px;
+    transition: .4s;
+}
+
+#down {
+    transition: .4s;
+}
+
+#down:hover {
+    transform: translateY(10px);
+    text-decoration: underline;
+}
+
+#up {
+    display: none;
+    transition: .4s;
+}
+
+#up:hover {
+    transform: translateY(-10px);
+    text-decoration: overline;
+}
+
+#representantes {
+    transition: .5s;
+}

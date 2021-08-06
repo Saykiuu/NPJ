@@ -1,0 +1,11 @@
+#cabecario {
+    transition: .5s;
+}
+
+#h2 {
+    color: white;
+    margin-left: 10px;
+    display: inline;
+    text-transform: uppercase;
+    font-weight: 100;
+}

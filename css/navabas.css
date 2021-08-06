@@ -1,0 +1,25 @@
+.nav-abas {
+    margin: 20px 20% 0px 20%;
+    border-top: 1px solid #6495ed;
+    border-right: 1px solid #6495ed;
+    border-left: 1px solid #6495ed;
+    border-bottom: 1px solid #ccc;
+    background-color: #f1f1f1;
+    text-align: center;
+}
+
+.nav-abas button {
+    font-size: 17px;
+    text-transform: uppercase;
+    font-weight: bold;
+    line-height: 50px;
+    background-color: inherit;
+    border: none;
+    cursor: pointer;
+    transition: 0.3s;
+    padding: 5px 3% 5px 3%;
+}
+
+.nav-abas button:hover {
+    background-color: #ddd;
+}

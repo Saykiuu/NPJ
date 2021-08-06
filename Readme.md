@@ -1,0 +1,3 @@
+Este projeto, foi feito com PHP, html e CSS. Ele busca automatizar o processo do cadastramento de processos do NPJ.
+
+Bom, ele utiliza apenas um menu que mostra os processos e operações cadastrardas vinculadas a um cliente. Devido ao tempo de estágio e a falta de conhecimento iniciais desse projeto, ainda é bem singular, sem muitas diversificações e aplicações de diversas ferramentas que auxiliariam no cadastramento.
